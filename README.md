@@ -6,8 +6,7 @@ Virtual Piano Player para o Roblox
 
 Para usar é bem simples, só executar este loadstring no seu executor :)
 
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/MachineFox-eng/MidiPlayer/refs/heads/main/package.lua"))()
-```
+```loadstring(game:HttpGet("https://raw.githubusercontent.com/MachineFox-eng/MidiPlayer/refs/heads/main/package.lua"))()```
 
 ## Forma de uso
 
