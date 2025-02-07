@@ -23,4 +23,6 @@ Para selecionar as músicas de dois cliques na música
 O botão circular que esta do lado do título é para ativar/desativar a visualização das notas, recomendo deixar desativado caso esteja no celular, ele causa lag
 
 
-## Script original junto com o nome do autor
+### Script original junto com o nome do autor
+
+[richie0866](https://github.com/richie0866/MidiPlayer)
