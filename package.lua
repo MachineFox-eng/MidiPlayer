@@ -3829,11 +3829,7 @@ end)
 
 local Rostruct = TS.initialize("init")
 -- Defina o caminho para o seu repositório no GitHub
-local owner = "MachineFox-eng"
-local repo = "MidiPlayer"
-
--- Função para baixar e extrair os arquivos do GitHub
-Rostruct.DownloadLatestRelease(owner, repo)
+Rostruct.DownloadLatestRelease("MachineFox-eng", "MidiPlayer")
     :andThen(function(download)
         -- Importe e configure usando o diretório baixado
         local project = Rostruct.Deploy(download.Location .. "src/")
