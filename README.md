@@ -16,7 +16,8 @@ Para poder dar Play no seus Midifiles, você tem que adicionar eles a pasta "Wor
 
 Eles vão ficar acessível no GUi
 
-[![Demonstração](https://img.youtube.com/vi/VwsENRT0pvc/0.jpg)](https://www.youtube.com/watch?v=VwsENRT0pvc)
+[Demonstração](https://www.youtube.com/watch?v=VwsENRT0pvc)
+[![Video](https://img.youtube.com/vi/VwsENRT0pvc/0.jpg)](https://www.youtube.com/watch?v=VwsENRT0pvc)
 
 Para selecionar as músicas de dois cliques na música
 
